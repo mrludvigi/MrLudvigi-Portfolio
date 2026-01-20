@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Ludvigi Khukhunaishvili — Senior Full-Stack Web Developer",
   description:
     "Senior Full-Stack Web Developer & Program Director. Building scalable, high-performance web platforms with React, Vue, WordPress, Node.js, PHP, and MySQL.",
-  metadataBase: new URL("https://example.com"), // როცა domain გექნება, აქ ჩაანაცვლე
+  metadataBase: new URL("https://example.com"), 
   openGraph: {
     title: "Ludvigi Khukhunaishvili — Senior Full-Stack Web Developer",
     description:
